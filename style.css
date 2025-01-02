@@ -5,3 +5,17 @@ body {
 .text-primary {
     color: #2D3892 !important;
 }
+
+.second-bg {
+    background-image: url("./assets/images/Group 20.png");
+    background-size: cover;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.third-bg {
+    background-image: url("./assets/images/Group 22.png");
+    background-size: cover;
+    width: 100%;
+    min-height: 100vh;
+}
